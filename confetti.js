@@ -1,5 +1,5 @@
 // Confetti.js - downloaded from https://www.cssscript.com/confetti-falling-animation/
-console.log('reading')
+//console.log('reading')
 var confetti = {
 	maxCount: 100,		//set max confetti count
 	speed: 10,			//set the particle animation speed
